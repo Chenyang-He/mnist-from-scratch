@@ -17,7 +17,7 @@ Building a multilayer perceptron (MLP) from scratch using only NumPy to classify
 
 ## Progress Log
 
-- [ ] Environment setup
+- [x] Environment setup
 - [ ] Forward propagation
 - [ ] Backpropagation with gradient checking
 - [ ] NumPy version: MNIST training (target ≥95%)
